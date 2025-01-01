@@ -13,9 +13,6 @@ public class add {
         System.out.print("Enter second number : ");
         int two = inputAccess.nextInt();
         System.out.println(one * two );
-
-
-
         inputAccess.close();
 
 
